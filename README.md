@@ -16,6 +16,8 @@ This project leverages python 3.7.9 with the following packages:
 
 * [hvplot.pandas](https://hvplot.holoviz.org/user_guide/Introduction.html) - For the visualization of real estate information.
 
+* [sklearn]https://scikit-learn.org/stable/) - For machine learning on cryptos.
+
 On the terminal, under the conda dev environment, install the following:
 
 ---
