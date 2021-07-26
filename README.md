@@ -1,4 +1,4 @@
-# ETF analyzer
+# Crypto analyzer using unsupervised learning
 
 This project attempts to cluster differenty cyptocurrencies using unsupervised learning.
 
